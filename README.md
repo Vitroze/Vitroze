@@ -1,8 +1,8 @@
-# 👋 Bienvenue sur mon profil GitHub !
+# 👋 Welcome to my GitHub profile!
 
-## 👨‍💻 À propos de moi
+## 👨‍💻 About me
 
-Je suis un jeune développeur passionné, spécialisé dans le GLua, Python et bien d'autres langages, avec une expérience variée allant de la création de plugins pour GTA V à des projets sur Arduino. 
+I am a passionate young French developer specializing in GLua, Python, and many other languages, with varied experience ranging from creating plugins for GTA V to projects on Arduino. 
 
 ---
 
@@ -10,25 +10,28 @@ Je suis un jeune développeur passionné, spécialisé dans le GLua, Python et b
 
 | Langage / Technologie   | Niveau de maîtrise                                                                 |
 |--------------------------|-----------------------------------------------------------------------------------|
-| **Lua / Glua**          | `█████████░░░` 90%                                                                |
-| **Python**              | `█████████░░░` 90%                                                                |
-| **HTML / CSS / JS**     | `██████░░░░░░` 60%                                                                |
-| **C#**                  | `█████░░░░░░░` 50% Développement de plugins GTA V, Apps Windows                   |
-| **C++**                 | `████░░░░░░░░` 40% Projets Arduino                                                |
-| **Batch**               | `████░░░░░░░░` 40%                                                                |
+| **Lua / Glua**          | ★★★ Expert                                                             |
+| **Python**              | ★★★ Expert                                                              |
+| **HTML / CSS / JS**     | ★★☆ Intermediate                                                                |
+| **C#**                  | ★★☆ Intermediate                   |
+| **SQL**                  | ★★☆ Intermediate                   |
+| **Git**                  | ★★☆ Intermediate                   |
+| **C++**                 | ★☆☆ Junior                                                |
+| **Batch**               | ★☆☆ Junior                                                                |
 
 ---
 
 ## 🌟 Projets récents
-- **Plugins pour GTA V** : Création d'un plugin *Callout Manager* pour LSPDFR.
-- **Addon Garry's Mod** : Publication de l'Addon *VPET* sur le site GmodStore.
-- **Projets Arduino** : Conception de circuits électroniques pour divers projets scolaires.
+- **Plugins for GTA V**: Creation of a *Callout Manager* plugin for LSPDFR.
+- **Garry's Mod Addon**: Publication of the *VPET*, *VPolice* Addon on the GmodStore website.
+- **Arduino Projects**: Design of electronic circuits for various school projects.
 
 ---
 
 ## 🔗 Portfolio
-Découvrez mes projets sur mon [portfolio](https://vitroze.github.io/portfolio).
+Découvrez mes projets sur mon [portfolio](https://www.vitroze-dev.com/).
+
+# Contact
+You can contact me via [Discord](https://discord.com/users/348537418045194250).
 
 ---
-
-Merci de votre visite et n'hésitez pas

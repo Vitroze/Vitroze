@@ -29,7 +29,7 @@ I am a passionate young French developer specializing in GLua, Python, and many 
 ---
 
 ## 🔗 Portfolio
-Découvrez mes projets sur mon [portfolio](https://www.vitroze-dev.com/).
+Découvrez mes projets sur mon [portfolio](https://www.vitroze-dev.fr/).
 
 # Contact
 You can contact me via [Discord](https://discord.com/users/348537418045194250).

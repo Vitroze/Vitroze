@@ -6,9 +6,9 @@ I am a passionate young French developer specializing in GLua, Python, and many 
 
 ---
 
-🎯 **Langages et Compétences**
+🎯 **Languages and Skills**
 
-| Langage / Technologie   | Niveau de maîtrise                                                                 |
+| Language / Technology   | Level                                                                |
 |--------------------------|-----------------------------------------------------------------------------------|
 | **Lua / Glua**          | ★★★ Expert                                                             |
 | **Python**              | ★★★ Expert                                                              |
@@ -21,7 +21,7 @@ I am a passionate young French developer specializing in GLua, Python, and many 
 
 ---
 
-## 🌟 Projets récents
+## 🌟 Recent Projects
 - **Plugins for GTA V**: Creation of a *Callout Manager* plugin for LSPDFR.
 - **Garry's Mod Addon**: Publication of the *VPET*, *VPolice* Addon on the GmodStore website.
 - **Arduino Projects**: Design of electronic circuits for various school projects.
@@ -29,7 +29,7 @@ I am a passionate young French developer specializing in GLua, Python, and many 
 ---
 
 ## 🔗 Portfolio
-Découvrez mes projets sur mon [portfolio](https://www.vitroze-dev.fr/).
+Check out my projects on my [portfolio](https://www.vitroze-dev.fr/).
 
 # Contact
 You can contact me via [Discord](https://discord.com/users/348537418045194250).

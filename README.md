@@ -14,17 +14,21 @@ I am a passionate young French developer specializing in GLua, Python, and many 
 | **Python**              | ★★★ Expert                                                              |
 | **HTML / CSS / JS**     | ★★☆ Intermediate                                                                |
 | **C#**                  | ★★☆ Intermediate                   |
-| **SQL**                  | ★★☆ Intermediate                   |
+| **SQL/SQLite/MySQL**                  | ★★☆ Intermediate                   |
+| **MongoDB**                  | ★★☆ Intermediate                   |
 | **Git**                  | ★★☆ Intermediate                   |
 | **C++**                 | ★☆☆ Junior                                                |
 | **Batch**               | ★☆☆ Junior                                                                |
+| **Unreal Engine**               | ★☆☆ Junior                                                                |
 
 ---
 
 ## 🌟 Recent Projects
 - **Plugins for GTA V**: Creation of a *Callout Manager* plugin for LSPDFR.
 - **Garry's Mod Addon**: Publication of the *VPET*, *VPolice* Addon on the GmodStore website.
-- **Arduino Projects**: Design of electronic circuits for various school projects.
+- **Arduino/Robotics Projects**: Design of electronic circuits for various school projects.
+
+I used to work for the VLife Roleplay server, and I currently work for GtaCity Roleplay. I help them troubleshoot issues and add new features.
 
 ---
 
